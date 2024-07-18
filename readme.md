@@ -6,7 +6,7 @@ An advanced Sudoku solver implemented in Microsoft Excel, utilizing linear progr
 
 - User-friendly interface for inputting unsolved Sudoku puzzles
 - Powerful solver using linear programming algorithms
-- Macro and script integration for enhanced functionality
+- VBA Macro and script integration for enhanced functionality
 - Visual representation of the solving process
 
 ## How to Use
