@@ -1,6 +1,6 @@
 # Excel Sudoku Solver
 
-An advanced Sudoku solver implemented in Microsoft Excel, utilizing linear programming techniques to solve puzzles efficiently.
+An advanced Sudoku puzzle solver implemented as a Microsoft Excel spreadsheet, leveraging the power of linear programming techniques to efficiently solve puzzles of varying difficulty. This tool combines Excel's native functionalities with custom VBA macros and scripts to provide a user-friendly interface for inputting unsolved Sudoku grids and obtaining solutions through mathematical optimization methods.
 
 ## Features
 
